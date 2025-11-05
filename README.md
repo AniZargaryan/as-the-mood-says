@@ -47,13 +47,13 @@ python main.py
 
 ### Example of a user scenario:
 
-1. Run the program.
-2. A list of 3 options how to get movie recommendation appears. Select 1 - “Подобрать фильм под настроение”.
-3. A list of mood options appears. Select 5 - “в философских размышлениях 🤔”.
-4. The question appears: “Хотите уточнить жанр? (да/1 или нет/2)”. Enter “да”.
-5. A list of available movie genres appears according to the selected mood. Select “3” - “приключения”.
-6. The number of films found and one randomly suggested film appear. Select “0” - “вернуться в главное меню”.
-7. Return to main menu. Select “0” - “Выйти из программы”.
+1. **Run the program.**
+2. A list of 3 options how to get movie recommendation appears. **Select 1 - “Подобрать фильм под настроение”.**
+3. A list of mood options appears. **Select 5 - “в философских размышлениях 🤔”.**
+4. The question appears: “Хотите уточнить жанр? (да/1 или нет/2)”. **Enter “да”.**
+5. A list of available movie genres appears according to the selected mood. **Select “3” - “приключения”.**
+6. The number of films found and one randomly suggested film appear. **Select “0” - “вернуться в главное меню”.**
+7. Return to main menu. **Select “0” - “Выйти из программы”.**
 8. Exiting the program. The following message appears “👋 До свидания! ◝(ᵔᗜᵔ)◜”.
 
 ### >> how it looks in the console:
