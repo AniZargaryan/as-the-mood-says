@@ -54,7 +54,7 @@ python main.py
 7. Return to main menu. Select “0” - “Выйти из программы”.
 8. Exiting the program. The following message appears “👋 До свидания! ◝(ᵔᗜᵔ)◜”.
 
-#### >> how it looks in the console:
+### >> how it looks in the console:
 
 PS C:\Users\User\as-the-mood-says> python main.py
 
@@ -124,10 +124,8 @@ PS C:\Users\User\as-the-mood-says> python main.py
 ## Project structure
 
 > AS-THE-MOOD-SAYS
-
 >> main.py - main file with menu and filtering logic
 >> movies_data.py - internal database with movie info (titles, moods, genres, descriptions)
-
 >> requirements.txt - requirements and dependencies file (empty; only Python standard library (**random**) is used)
 >> .gitignore - excludes temporary and system files
 >> README.md - documentation (overview, setup, usage and etc)
