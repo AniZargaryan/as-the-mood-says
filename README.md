@@ -2,7 +2,9 @@
 
 A console-based tool that helps you choose a movie depending on your **current mood** (and optionally by **genre**).
 The app is designed for users who want a quick, personalized film recommendation without endless scrolling through catalogs.
-**All data is built in**, so no internet connection or API required.
+
+## Data
+No external datasets are used. All movie records are stored in **movies_data.py**, so no internet connection or API required.
 
 
 ## Functionality
@@ -46,7 +48,7 @@ python main.py
 ### Example of a user scenario:
 
 1. Run the program.
-2. A list of 3 options how to get movie recomendation appears. Select 1 - “Подобрать фильм под настроение”.
+2. A list of 3 options how to get movie recommendation appears. Select 1 - “Подобрать фильм под настроение”.
 3. A list of mood options appears. Select 5 - “в философских размышлениях 🤔”.
 4. The question appears: “Хотите уточнить жанр? (да/1 или нет/2)”. Enter “да”.
 5. A list of available movie genres appears according to the selected mood. Select “3” - “приключения”.
@@ -56,6 +58,7 @@ python main.py
 
 ### >> how it looks in the console:
 
+```bash
 PS C:\Users\User\as-the-mood-says> python main.py
 
 ────────────────────────────────────────────────────────────
@@ -120,17 +123,17 @@ PS C:\Users\User\as-the-mood-says> python main.py
 Ваш выбор: 0
 
 👋 До свидания! ◝(ᵔᗜᵔ)◜
+```
 
 ## Project structure
 
-> AS-THE-MOOD-SAYS
->> main.py - main file with menu and filtering logic
->> movies_data.py - internal database with movie info (titles, moods, genres, descriptions)
->> requirements.txt - requirements and dependencies file (empty; only Python standard library (**random**) is used)
->> .gitignore - excludes temporary and system files
->> README.md - documentation (overview, setup, usage and etc)
->> LICENSE - License file (MIT License)
-
+> **as-the-mood-says**
+>> **main.py** - main file with menu and filtering logic
+>> **movies_data.py** - internal database with movie info (titles, moods, genres, descriptions)
+>> **requirements.txt** - requirements and dependencies file (empty; only Python standard library (**random**) is used)
+>> **.gitignore** - excludes temporary and system files
+>> **README.md** - documentation (overview, setup, usage and etc)
+>> **LICENSE** - License file (MIT License)
 
 ## License / author:
 
