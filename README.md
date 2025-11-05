@@ -56,7 +56,7 @@ python main.py
 7. Return to main menu. **Select “0” - “Выйти из программы”.**
 8. Exiting the program. The following message appears “👋 До свидания! ◝(ᵔᗜᵔ)◜”.
 
-### >> how it looks in the console:
+### >> How it looks in the consol:
 
 ```bash
 PS C:\Users\User\as-the-mood-says> python main.py
