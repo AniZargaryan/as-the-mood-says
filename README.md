@@ -130,16 +130,10 @@ PS C:\Users\User\as-the-mood-says> python main.py
 > **as-the-mood-says**
 
 >> **main.py** - main file with menu and filtering logic.
-
 >> **movies_data.py** - internal database with movie info (titles, moods, genres, descriptions).
-
->> **requirements.txt** - requirements and dependencies file (empty; only Python standard library (**random**) is used).git add .
-
-
+>> **requirements.txt** - requirements and dependencies file (empty; only Python standard library (**random**) is used).
 >> **.gitignore** - excludes temporary and system files.
-
 >> **README.md** - documentation (overview, setup, usage and etc).
-
 >> **LICENSE** - license file (MIT License).
 
 ## License / author:
