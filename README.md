@@ -10,7 +10,7 @@ No external datasets are used. All movie records are stored in **movies_data.py*
 ## Functionality
 - Display a list of available **moods** with emoji.
 - Select a **mood** and optionally narrow by **genre**.
-- Randomly suggest matching films without repetition.
+- Randomly suggest matching films.
 - View all movies stored in the database.
 - Return to the main menu at any time.
 - Fully console-based and runs offline.
