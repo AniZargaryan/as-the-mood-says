@@ -128,13 +128,13 @@ PS C:\Users\User\as-the-mood-says> python main.py
 ## Project structure
 
 ```bash
-**as-the-mood-says**
-├─**.gitignore** - excludes temporary and system files.
-├─**LICENSE** - license file (MIT License).
-├─**main.py** - main file with menu and filtering logic.
-├─**movies_data.py** - internal database with movie info (titles, moods, genres, descriptions).
-├─**README.md** - documentation (overview, setup, usage and etc).
-├─**requirements.txt** - requirements and dependencies file (empty; only Python standard library (**random**) is used).
+as-the-mood-says
+├─.gitignore # excludes temporary and system files.
+├─LICENSE # license file (MIT License).
+├─main.py # main file with menu and filtering logic.
+├─movies_data.py # internal database with movie info (titles, moods, genres, descriptions).
+├─README.md # documentation (overview, setup, usage and etc).
+├─requirements.txt # requirements and dependencies file (empty; only Python standard library (**random**) is used).
 ```
 
 ## License / author:
