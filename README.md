@@ -26,7 +26,7 @@ No external datasets are used. All movie records are stored in **movies_data.py*
 
 ```bash
 # 1) Clone the repository
-git clone https://github.com/<your-username>/as-the-mood-says.git
+git clone https://github.com/AniZargaryan/as-the-mood-says.git
 cd as-the-mood-says
 
 # 2) Create and activate a virtual environment
